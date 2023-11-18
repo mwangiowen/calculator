@@ -12,7 +12,7 @@ This project is a basic calculator implementation in Python. It can perform the 
 ## How to Use
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git@github.com:mwangiowen/calculator.git
 Navigate to the project directory:
 
 bash
