@@ -88,3 +88,6 @@ form input.del {
 .special {
     background: #0E0E10; /* Dark Blue */
 }
+.calculator form input.glow {
+    box-shadow: 0 0 20px 5px #FFD700; /* Gold glow effect */
+}
